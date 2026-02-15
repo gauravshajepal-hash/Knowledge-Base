@@ -1,0 +1,42 @@
+name,region,strategy,query
+McKinsey & Company,Global,google_news,site:mckinsey.com/featured-insights
+Boston Consulting Group (BCG),Global,google_news,site:bcg.com/featured-insights-thought-leadership
+Bain & Company,Global,google_news,site:bain.com/insights
+Deloitte Insights,Global,google_news,site:www2.deloitte.com/us/en/insights
+PwC Strategy&,Global,google_news,site:pwc.com/gx/en/issues
+EY (Ernst & Young),Global,google_news,site:ey.com/en_gl/insights
+KPMG,Global,google_news,site:kpmg.com/xx/en/home/insights
+Kearney,Global,google_news,site:kearney.com/insights
+Oliver Wyman,Global,google_news,site:oliverwyman.com/our-expertise/insights
+Alvarez & Marsal,Global,google_news,site:alvarezandmarsal.com/insights
+Gartner,USA/Tech,google_news,site:gartner.com/en/articles
+Forrester,USA/Tech,google_news,site:forrester.com/blogs
+Accenture,USA/Tech,google_news,site:accenture.com/us-en/insights
+Brookings Institution,USA/Policy,google_news,site:brookings.edu/research
+NBER,USA/Econ,google_news,site:nber.org/papers
+CSIS,USA/SupplyChain,google_news,site:csis.org/analysis
+MIT Center for Transportation,USA/SupplyChain,bing_rss,site:ctl.mit.edu
+IQVIA Institute,Global/Healthcare,google_news,site:iqvia.com/insights
+ZS Associates,Global/Healthcare,google_news,site:zs.com/insights
+KFF (Kaiser Family Foundation),USA/Healthcare,google_news,site:kff.org
+IEA (Intl Energy Agency),Global/Energy,google_news,site:iea.org/reports
+IRENA,Global/Energy,bing_rss,site:irena.org/publications
+RMI (Rocky Mountain Inst),USA/Energy,google_news,site:rmi.org/insight
+BlackRock Investment Inst,Global/Finance,google_news,site:blackrock.com/us/individual/insights
+KKR Global Macro,Global/Finance,bing_rss,site:kkr.com/global-perspectives
+Preqin,Global/Finance,bing_rss,site:preqin.com/insights
+Fresh Consulting,Niche (Tech),bing_rss,site:freshconsulting.com/insights
+Management Solutions,Niche (Risk),bing_rss,site:managementsolutions.com/en/publications
+Redseer,India,bing_rss,site:redseer.com
+Zinnov,India,bing_rss,site:zinnov.com/insights
+Tata Consultancy Services (TCS),India,google_news,site:tcs.com/insights
+Tata Strategic Management Group (TSMG),India,bing_rss,site:tsmg.com
+Avalon Consulting,India,bing_rss,site:avalonconsulting.com
+Hansa Cequity,India,bing_rss,site:hansacequity.com
+Daxue Consulting,China,google_news,site:daxueconsulting.com
+Center for China & Globalization (CCG),China,bing_rss,site:ccg.org.cn
+CKGSB Knowledge,China,bing_rss,site:ckgsb.edu.cn/knowledge
+China Development Institute,China,bing_rss,site:en.cdi.org.cn
+Horizon Insights,China,bing_rss,site:horizoninsights.com
+iResearch,China,bing_rss,site:iresearchchina.com
+YCP Group,Asia,bing_rss,site:ycp.com/insights

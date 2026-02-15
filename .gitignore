@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+static/
+
+# Database & Data
+research.db
+*.csv
+!sources.csv
+
+# OS
+.DS_Store
+Thumbs.db
